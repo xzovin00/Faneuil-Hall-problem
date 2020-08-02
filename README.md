@@ -1,2 +1,2 @@
-# IOS2
+# Faneuil Hall (IOS2)
 My solution to the Faneuil Hall synchronization problem.
